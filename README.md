@@ -61,7 +61,7 @@ Target: ["Build unique Projects and To learn new Technologies"]
 <p align="center">
   <a href="https://skillicons.dev">
    <h4>Languages</h4>
-    <img src="https://skillicons.dev/icons?i=c++,c,java,javascript" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,javascript" />
     <h4>Technologies/Frameworks:</h4>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,expressjs,react,mysql,git,github,vscode" />
   </a>

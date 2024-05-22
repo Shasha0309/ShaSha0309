@@ -3,7 +3,8 @@
 </p>
 
 <h3 align="center">
-Welcome to my digital playground, where I blend my tech adventures, cooks up the recipes for my innovations in products, assistance, and endeavors. My quest? Crafting solutions that not only make a tangible difference but also leave a lasting impact on the world around us.👾👩‍💻✨
+Welcome to my digital playground, where I blend my tech adventures, cooks up the recipes for my innovations in products, assistance, and endeavors.
+  <br>My quest? Crafting solutions that not only make a tangible difference but also leave a lasting impact on the world around us.👾👩‍💻✨
 </h3>
 
 <br>

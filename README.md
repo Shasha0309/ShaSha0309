@@ -72,7 +72,7 @@ Target: ["Build unique Projects and To learn new Technologies"]
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=65&duration=2000&pause=1200&color=F7F7F7&background=0D1117&center=true&vCenter=true&random=false&width=2580&height=100&lines=thanks+for+making+it+to+the+end!+%F0%9F%98%84%E2%98%95%EF%B8%8F)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=65&duration=2000&pause=1200&color=F7F7F7&background=0D1117&center=true&vCenter=true&random=false&width=2580&height=100&lines=thanks+for+making+it+to+the+end!)](#)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:488A99,150:000000&animation=fadeIn&height=100&section=footer"/>
